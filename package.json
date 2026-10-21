@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "postinstall": "node node_modules/esbuild/install.js"
+ "postinstall": "node node_modules/esbuild/install.js"
   },
   "dependencies": {
     "react": "^18.2.0",
